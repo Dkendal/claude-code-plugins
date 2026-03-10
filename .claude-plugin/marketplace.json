@@ -1,0 +1,13 @@
+{
+  "name": "dkendal-plugins",
+  "owner": {
+    "name": "Dylan Kendal"
+  },
+  "plugins": [
+    {
+      "name": "jujutsu",
+      "source": "./jujutsu",
+      "description": "Jujutsu (jj) version control system skills and commands"
+    }
+  ]
+}
